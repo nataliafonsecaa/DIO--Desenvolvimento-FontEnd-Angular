@@ -53,3 +53,10 @@ const natalia = new pessoa ('natalia' , 28)
 const catarina = new pessoa ('catarina' , 10)
 
 compararPessoa(natalia, catarina)
+
+console.log("ARRAY, FOR, ESTRURURAS DE REPETIÇÃO ");
+
+const aluno = ['Ana' , 'Maria' , 'Joana'] 
+
+console.log(aluno[0]); // [0] chama o primeiro item da lista, mostra a posição // 
+
